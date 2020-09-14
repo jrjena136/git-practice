@@ -1,2 +1,3 @@
 Hello world - branch2
 added something
+Welcome to git-flow
